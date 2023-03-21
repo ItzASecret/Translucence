@@ -1,5 +1,5 @@
 # Translucence Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url] [![Download][download-logo]][download-url]
-#### A translucent/frosted glass Discord theme
+#### A translucent/frosted glass Discord theeb
 <hr>
 
 Current version: v1.0.6.3 (26/02/2021)
