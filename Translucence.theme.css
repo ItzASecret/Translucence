@@ -18,7 +18,7 @@
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
 	
-	--accent-hue: 156;
+	--accent-hue: 316;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
 	--accent-opacity: 1;
@@ -33,9 +33,9 @@
 	--message-padding-side: 8px; /*	-	*/
 	
 	--reply-hue: 226;
-	--reply-saturation: 77.4%;
-	--reply-lightness: 61.8%;
-	--reply-opacity: 1; /*	-	*/
+	--reply-saturation: 71%;
+	--reply-lightness: 72%;
+	--reply-opacity: 0.9; /*	-	*/
 
 	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
